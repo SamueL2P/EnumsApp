@@ -12,7 +12,8 @@ namespace EnumsApp
     {
 
         //enums is user defined data type that has a fixed set of values 
-        //enums are generally defined seperately in c# in another file 
+
+        //enums are generally defined seperately in c# in another file ie :-EnumsApp --> Types --> Enum file
 
         static void Main(string[] args)
         {
